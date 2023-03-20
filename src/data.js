@@ -6,7 +6,7 @@ export const projects = [
         description:
             "A simple feedback app that utilizes React JS fundamentals like Components, Props, State.",
         image: "./images/feedbackapp.gif",
-        link: "https://reactbootcamp.com",
+        link: "https://legendary-palmier-9ee3c0.netlify.app/",
     }
     // },
     // {

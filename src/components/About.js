@@ -11,9 +11,12 @@ export default function About() {
                         apps.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                        laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                        Laborum, voluptas natus?
+                        I am passionate about programming and technology and helping people and users with their
+                        needs. I have worked as a full stack junior developer before. WIth my knowledge of working as a
+                        Product Specialist, and using readily available web frameworks I am confident that I will be a
+                        fit for your company. With passion and grit for learning, I would like to take part in empowering
+                        your team with my newly found technical expertise. I was able to develop projects that would
+                        prove my skills not only in college but also at the training I attended at Zuitt Coding Bootcamp.
                     </p>
                     <div className="flex justify-center">
                         <a
@@ -30,9 +33,9 @@ export default function About() {
                 </div>
                 <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
                     <img
-                        className="object-cover object-center rounded"
+                        className="object-cover object-center rounded-full"
                         alt="hero"
-                        src="./coding.svg"
+                        src="./images/me-formal.png"
                     />
                 </div>
             </div>
