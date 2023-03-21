@@ -12,17 +12,6 @@ export default function Footer() {
                         </a>
                     </div>
                     <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-2">
-                        {/* <div>
-                            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h2>
-                            <ul class="text-gray-600 dark:text-gray-400">
-                                <li class="mb-4">
-                                    <a href="https://flowbite.com/" class="hover:underline">Flowbite</a>
-                                </li>
-                                <li>
-                                    <a href="https://tailwindcss.com/" class="hover:underline">Tailwind CSS</a>
-                                </li>
-                            </ul>
-                        </div> */}
                         <div>
                             <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Follow me</h2>
                             <ul class="text-gray-600 dark:text-gray-400">
@@ -34,17 +23,6 @@ export default function Footer() {
                                 </li>
                             </ul>
                         </div>
-                        {/* <div>
-                            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Legal</h2>
-                            <ul class="text-gray-600 dark:text-gray-400">
-                                <li class="mb-4">
-                                    <a href="#" class="hover:underline">Privacy Policy</a>
-                                </li>
-                                <li>
-                                    <a href="#" class="hover:underline">Terms &amp; Conditions</a>
-                                </li>
-                            </ul>
-                        </div> */}
                     </div>
                 </div>
                 <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
