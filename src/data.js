@@ -65,19 +65,19 @@ export const skills = [
     }
 ];
 
-export const testimonials = [
-    {
-        id: 1,
-        quote: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio cupiditate ipsam velit, vel dolores libero suscipit, est deleniti ullam incidunt ipsum vero! Atque porro veniam, deserunt ad optio illum ipsum.",
-        image: "https://source.unsplash.com/user/c_v_r",
-        name: "Lorem ipsum dolor sit amet.",
-        company: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, voluptas!"
-    },
-    {
-        id: 2,
-        quote: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio cupiditate ipsam velit, vel dolores libero suscipit, est deleniti ullam incidunt ipsum vero! Atque porro veniam, deserunt ad optio illum ipsum.",
-        image: "Lorem, ipsum.",
-        name: "Lorem ipsum dolor sit amet.",
-        company: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, voluptas!"
-    },
-]
+// export const testimonials = [
+//     {
+//         id: 1,
+//         quote: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio cupiditate ipsam velit, vel dolores libero suscipit, est deleniti ullam incidunt ipsum vero! Atque porro veniam, deserunt ad optio illum ipsum.",
+//         image: "https://source.unsplash.com/user/c_v_r",
+//         name: "Lorem ipsum dolor sit amet.",
+//         company: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, voluptas!"
+//     },
+//     {
+//         id: 2,
+//         quote: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio cupiditate ipsam velit, vel dolores libero suscipit, est deleniti ullam incidunt ipsum vero! Atque porro veniam, deserunt ad optio illum ipsum.",
+//         image: "Lorem, ipsum.",
+//         name: "Lorem ipsum dolor sit amet.",
+//         company: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, voluptas!"
+//     },
+// ]
