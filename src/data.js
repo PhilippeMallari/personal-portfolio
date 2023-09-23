@@ -8,16 +8,15 @@ export const projects = [
         image: "./images/feedbackapp.gif",
         link: "https://legendary-palmier-9ee3c0.netlify.app/",
     }
-    // },
-    // {
-    //     id: 2,
-    //     title: "React Tracks",
-    //     subtitle: "React and Python",
-    //     description:
-    //         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    //     image: "./images/logo-2.PNG",
-    //     link: "https://reedbarger.com",
-    // },
+    ,
+    {
+        id: 2,
+        title: "Boss K Steakhouse",
+        subtitle: "React JS",
+        description:
+            "Static website that I presented to a client in the Philippines",
+        image: "./images/bosskgif.gif",
+    },
     // {
     //     id: 3,
     //     title: "DevChat",
